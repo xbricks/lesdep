@@ -1,0 +1,25 @@
+{
+  "name": "lesdep",
+  "version": "0.0.0",
+  "authors": [
+    "cybel.company"
+  ],
+  "description": "lesgo scripts dependency",
+  "main": "kl-custom.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "lesgo",
+    "dependency"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/xbricks/lesdep",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
