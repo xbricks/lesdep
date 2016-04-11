@@ -5,7 +5,11 @@
     "cybel.company"
   ],
   "description": "lesgo scripts dependency",
-  "main": "kl-custom.js",
+  "main": [
+    "kl-custom.js",
+    "vendor/owl.carousel.2/owl.carousel.min.js",
+    "vendor/owl.carousel.2/assets/owl.carousel.css"
+  ],
   "moduleType": [
     "globals"
   ],
